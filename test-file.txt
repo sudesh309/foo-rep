@@ -1,1 +1,2 @@
-Hello world, My git is working. 
+Hello world, My git is working.
+Good bye
